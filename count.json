@@ -1,1 +1,11 @@
-{"count":48}
+{
+  "count": 48,
+  "statistics": {
+    "version_distribution": {
+      "2.1.8": 0
+    },
+    "launch_counter": {
+      "2.1.8": 0
+    }
+  }
+}
