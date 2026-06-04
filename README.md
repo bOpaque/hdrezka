@@ -1,2 +1,1 @@
-# hdrezka
-hdrezka update
+# lol, github as telemetry
